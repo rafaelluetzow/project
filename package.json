@@ -1,0 +1,29 @@
+{
+  "name": "imoveis-empregos-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3",
+    "next-auth": "^4.23.1",
+    "bcryptjs": "^2.4.3",
+    "swr": "^2.2.1",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.28",
+    "autoprefixer": "^10.4.15",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-next": "^13.4.19"
+  }
+}
